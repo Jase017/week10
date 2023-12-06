@@ -1,4 +1,4 @@
-# week8
+# week10
 ## Discription
 "Classic Tic Tac Toe" brings timeless fun to your fingertips. Experience the familiar thrill of the 3x3 grid, where two players take turns marking Xs and Os.
 ## How to play the game
